@@ -12,7 +12,7 @@ I've done three technical internships in security monitoring and DevOps, vulnera
 
 | Role | Where | When |
 |---|---|---|
-| Hardware Engineering Intern | KhanTech Bilişim Teknolojileri | Jul – Aug 2026 |
+| Hardware Engineering Intern (remote, CAD/PLM workstations) | KhanTech Bilişim Teknolojileri | Jul – Aug 2026 |
 | R&D Intern (security testing) | IEEE FBU Student Branch R&D Lab | Apr – Jun 2026 |
 | DevOps Intern (Wazuh SIEM, Docker, Windows Server/AD) | Gardiyan System Security Technologies | Jul – Aug 2025 |
 
@@ -31,6 +31,7 @@ I've done three technical internships in security monitoring and DevOps, vulnera
 
 - **Security & monitoring:** Wazuh · Zabbix · Nmap · Bettercap · Kali Linux
 - **Systems & DevOps:** Linux · Windows Server · Active Directory · Docker · VMware · Git
+- **Hardware & networking:** Workstation configuration · Troubleshooting · Cat6 / T568B · Cisco Packet Tracer · RAID
 - **ML & data:** Python · TensorFlow/Keras · scikit-learn · pandas · NumPy · Matplotlib · Seaborn
 - **Web & databases:** Flask · REST APIs · React · PHP · MySQL · SQL Server · Firebase
 - **Languages:** Python · C++ · JavaScript · PHP · SQL · Verilog
